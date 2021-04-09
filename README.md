@@ -29,7 +29,7 @@
 ### Hello World 🗣️
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/matheus-novais-de-brito/) 
-![Gitlab Badge](https://img.shields.io/badge/gitlab-FCA121?logo=gitlab&style=for-the-badge&logoColor=white)
+[![Gitlab Badge](https://img.shields.io/badge/gitlab-FCA121?logo=gitlab&style=for-the-badge&logoColor=white)](https://gitlab.com/matheusnovais)
 
 <!--
 **matheusnovaisz/matheusnovaisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
