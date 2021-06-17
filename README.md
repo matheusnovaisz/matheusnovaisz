@@ -3,7 +3,7 @@
 ### About me 📌️
 📚️ Studying Computer Science at Federal University of Bahia (UFBA), Brazil
 
-🥑️ CEO and Web Developer at [InfoJr UFBA](https://github.com/InfoJrUFBA)
+🥑️ CEO and Web Developer at [InfoJr UFBA](https://infojr.com.br)
 
 🧐️ I like to discover new things to add new flavors in my day
 
@@ -18,7 +18,10 @@
 🎨️ Front-end: 
 ![HTML5 Badge](https://img.shields.io/badge/html5-E34F26?logo=html5&style=for-the-badge&logoColor=white) 
 ![CSS3 Badge](https://img.shields.io/badge/css3-1572B6?logo=css3&style=for-the-badge&logoColor=white) 
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge&logoColor=white) 
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/SASS-CC6699?logo=SASS&style=for-the-badge&logoColor=white)
+![Next Badge](https://img.shields.io/badge/Next-000000?logo=next.js&style=for-the-badge&logoColor=white)
+![Netlify CMS Badge](https://img.shields.io/badge/Netlify%20CMS-00C7B7?logo=netlify&style=for-the-badge&logoColor=white)
 
 🎲️ Back-end: 
 ![NodeJS Badge](https://img.shields.io/badge/nodejs-339933?logo=node.js&style=for-the-badge&logoColor=white) 
