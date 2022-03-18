@@ -3,7 +3,7 @@
 ### About me 📌️
 📚️ Studying Computer Science at Federal University of Bahia (UFBA), Brazil
 
-🥑️ CEO and Web Developer at [InfoJr UFBA](https://infojr.com.br)
+🥑️ Counselor and Web Developer at [InfoJr UFBA](https://infojr.com.br)
 
 🤿 I dive in when I like something going PLUS ULTRA
 
