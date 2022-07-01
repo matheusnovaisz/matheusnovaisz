@@ -29,6 +29,7 @@
 
 ![NodeJS Badge](https://img.shields.io/badge/nodejs-339933?logo=node.js&style=for-the-badge&logoColor=white) 
 ![Adonis Badge](https://img.shields.io/badge/adonis-220052?logo=adonisjs&style=for-the-badge&logoColor=white)
+![Nest Badge](https://img.shields.io/badge/nest-E0234E?logo=nestjs&style=for-the-badge&logoColor=white)
 
 💻 Tools
 
@@ -43,7 +44,6 @@
 
 ![Elixir Badge](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&style=for-the-badge&logoColor=white)
 ![GraphQL Badge](https://img.shields.io/badge/graphql-E434AA?logo=graphql&style=for-the-badge&logoColor=white)
-![Nest Badge](https://img.shields.io/badge/nest-E0234E?logo=nestjs&style=for-the-badge&logoColor=white)
 ![Flutter Badge](https://img.shields.io/badge/flutter-02569B?logo=flutter&style=for-the-badge&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/python-3776AB?logo=python&style=for-the-badge&logoColor=white)
 ![Jest Badge](https://img.shields.io/badge/jest-C21325?logo=jest&style=for-the-badge&logoColor=white)
