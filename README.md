@@ -38,7 +38,7 @@
 ![VSCode Badge](https://img.shields.io/badge/vscode-007ACC?logo=visualstudiocode&style=for-the-badge&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/git-F05032?logo=git&style=for-the-badge&logoColor=white)
 ![Pipefy Badge](https://img.shields.io/badge/pipefy-ffffff?logo=trello&style=for-the-badge&logoColor=black)
-![Insomnia Badge](https://img.shields.io/badge/insomnia-5849BE?logo=insomnia&style=for-the-badge&logoColor=white)
+![Postman Badge](https://img.shields.io/badge/postman-FF6C37?logo=postman&style=for-the-badge&logoColor=white)
 
 🧐 I want to learn more
 
@@ -47,6 +47,7 @@
 ![Flutter Badge](https://img.shields.io/badge/flutter-02569B?logo=flutter&style=for-the-badge&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/python-3776AB?logo=python&style=for-the-badge&logoColor=white)
 ![Jest Badge](https://img.shields.io/badge/jest-C21325?logo=jest&style=for-the-badge&logoColor=white)
+![Kafka Badge](https://img.shields.io/badge/kafka-231F20?logo=apache-kafka&style=for-the-badge&logoColor=white)
 
 
 ---
