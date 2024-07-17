@@ -13,14 +13,14 @@
 
 ![Javascript Badge](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black)
 ![Typescript Badge](https://img.shields.io/badge/typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white)
-![Java Badge](https://img.shields.io/badge/java-1565C0?logo=java&style=for-the-badge&logoColor=white)
+![Java Badge](https://img.shields.io/badge/java-B07219?logo=java&style=for-the-badge&logoColor=white)
 
 🎨️ Front-end 
 
 ![HTML5 Badge](https://img.shields.io/badge/html5-E34F26?logo=html5&style=for-the-badge&logoColor=white) 
 ![CSS3 Badge](https://img.shields.io/badge/css3-1572B6?logo=css3&style=for-the-badge&logoColor=white) 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge&logoColor=black)
-![Styled-Components Badge](https://img.shields.io/badge/styledcomponents-CC6699?logo=styledcomponents&style=for-the-badge&logoColor=white)
+![Styled-Components Badge](https://img.shields.io/badge/styled%20components-CC6699?logo=styledcomponents&style=for-the-badge&logoColor=white)
 ![Next Badge](https://img.shields.io/badge/Next-000000?logo=next.js&style=for-the-badge&logoColor=white)
 ![Netlify CMS Badge](https://img.shields.io/badge/Netlify%20CMS-00C7B7?logo=netlify&style=for-the-badge&logoColor=white)
 
@@ -29,6 +29,9 @@
 ![NodeJS Badge](https://img.shields.io/badge/nodejs-339933?logo=node.js&style=for-the-badge&logoColor=white) 
 ![Adonis Badge](https://img.shields.io/badge/adonis-220052?logo=adonisjs&style=for-the-badge&logoColor=white)
 ![Nest Badge](https://img.shields.io/badge/nest-E0234E?logo=nestjs&style=for-the-badge&logoColor=white)
+![Spring Badge](https://img.shields.io/badge/Spring%20boot-6DB33F?logo=spring-boot&style=for-the-badge&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&style=for-the-badge&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/mysql-4479A1?logo=mysql&style=for-the-badge&logoColor=white)
 
 💻 Tools
 
