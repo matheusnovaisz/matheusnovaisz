@@ -3,8 +3,6 @@
 ### About me 📌️
 📚️ Studying Computer Science at Federal University of Bahia (UFBA), Brazil
 
-🥑️ Counselor and Web Developer at [InfoJr UFBA](https://infojr.com.br)
-
 🤿 I dive in when I like something going PLUS ULTRA
 
 ---
@@ -15,6 +13,7 @@
 
 ![Javascript Badge](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black)
 ![Typescript Badge](https://img.shields.io/badge/typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white)
+![Java Badge](https://img.shields.io/badge/java-1565C0?logo=java&style=for-the-badge&logoColor=white)
 
 🎨️ Front-end 
 
@@ -39,6 +38,8 @@
 ![Git Badge](https://img.shields.io/badge/git-F05032?logo=git&style=for-the-badge&logoColor=white)
 ![Pipefy Badge](https://img.shields.io/badge/pipefy-ffffff?logo=trello&style=for-the-badge&logoColor=black)
 ![Postman Badge](https://img.shields.io/badge/postman-FF6C37?logo=postman&style=for-the-badge&logoColor=white)
+![Selenium Badge](https://img.shields.io/badge/selenium-43B02A?logo=selenium&style=for-the-badge&logoColor=white)
+
 
 🧐 I want to learn more
 
