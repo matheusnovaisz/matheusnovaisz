@@ -46,13 +46,13 @@
 
 🧐 I want to learn more
 
+![Kafka Badge](https://img.shields.io/badge/kafka-231F20?logo=apache-kafka&style=for-the-badge&logoColor=white)
+![Redis Badge](https://img.shields.io/badge/redis-FF4438?logo=redis&style=for-the-badge&logoColor=white)
 ![Elixir Badge](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&style=for-the-badge&logoColor=white)
 ![GraphQL Badge](https://img.shields.io/badge/graphql-E434AA?logo=graphql&style=for-the-badge&logoColor=white)
 ![Flutter Badge](https://img.shields.io/badge/flutter-02569B?logo=flutter&style=for-the-badge&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/python-3776AB?logo=python&style=for-the-badge&logoColor=white)
 ![Jest Badge](https://img.shields.io/badge/jest-C21325?logo=jest&style=for-the-badge&logoColor=white)
-![Kafka Badge](https://img.shields.io/badge/kafka-231F20?logo=apache-kafka&style=for-the-badge&logoColor=white)
-
 
 ---
 
