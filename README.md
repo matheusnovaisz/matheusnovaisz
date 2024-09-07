@@ -35,11 +35,8 @@
 
 💻 Tools
 
-![Notion Badge](https://img.shields.io/badge/notion-000000?logo=notion&style=for-the-badge&logoColor=white)
-![Discord Badge](https://img.shields.io/badge/discord-5865F2?logo=discord&style=for-the-badge&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/vscode-007ACC?logo=visualstudiocode&style=for-the-badge&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/git-F05032?logo=git&style=for-the-badge&logoColor=white)
-![Pipefy Badge](https://img.shields.io/badge/pipefy-ffffff?logo=trello&style=for-the-badge&logoColor=black)
 ![Postman Badge](https://img.shields.io/badge/postman-FF6C37?logo=postman&style=for-the-badge&logoColor=white)
 ![Selenium Badge](https://img.shields.io/badge/selenium-43B02A?logo=selenium&style=for-the-badge&logoColor=white)
 
