@@ -14,6 +14,7 @@
 ![Javascript Badge](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black)
 ![Typescript Badge](https://img.shields.io/badge/typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/java-B07219?logo=java&style=for-the-badge&logoColor=white)
+![PHP Badge](https://img.shields.io/badge/php-777BB4?logo=php&style=for-the-badge&logoColor=white)
 
 🎨️ Front-end 
 
@@ -29,6 +30,7 @@
 ![NodeJS Badge](https://img.shields.io/badge/nodejs-339933?logo=node.js&style=for-the-badge&logoColor=white) 
 ![Adonis Badge](https://img.shields.io/badge/adonis-220052?logo=adonisjs&style=for-the-badge&logoColor=white)
 ![Nest Badge](https://img.shields.io/badge/nest-E0234E?logo=nestjs&style=for-the-badge&logoColor=white)
+![Laravel Badge](https://img.shields.io/badge/laravel-FF2D20?logo=laravel&style=for-the-badge&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring%20boot-6DB33F?logo=spring-boot&style=for-the-badge&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&style=for-the-badge&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/mysql-4479A1?logo=mysql&style=for-the-badge&logoColor=white)
